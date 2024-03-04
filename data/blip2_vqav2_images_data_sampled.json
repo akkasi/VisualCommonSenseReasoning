@@ -1,0 +1,122 @@
+{
+  "546095005": {
+    "img": "vqaV2/Images/mscoco/val2014/COCO_val2014_000000546095.jpg",
+    "caption": "two horses grazing in a field",
+    "question": "What are the yellow flowers called?",
+    "label_answer": "dandelions"
+  },
+  "45830004": {
+    "img": "vqaV2/Images/mscoco/val2014/COCO_val2014_000000045830.jpg",
+    "caption": "a black cat laying in a suitcase",
+    "question": "What does the cat have its head in?",
+    "label_answer": "nothing"
+  },
+  "549713003": {
+    "img": "vqaV2/Images/mscoco/val2014/COCO_val2014_000000549713.jpg",
+    "caption": "a woman holding up a wii remote",
+    "question": "Is she mad?",
+    "label_answer": "no"
+  },
+  "40515006": {
+    "img": "vqaV2/Images/mscoco/val2014/COCO_val2014_000000040515.jpg",
+    "caption": "a group of people on water skis",
+    "question": "Are they in a bathtub?",
+    "label_answer": "no"
+  },
+  "262651001": {
+    "img": "vqaV2/Images/mscoco/val2014/COCO_val2014_000000262651.jpg",
+    "caption": "a ship docked at a dock",
+    "question": "Is this a swimming pool?",
+    "label_answer": "no"
+  },
+  "296433007": {
+    "img": "vqaV2/Images/mscoco/val2014/COCO_val2014_000000296433.jpg",
+    "caption": "a bed in a hotel room",
+    "question": "What color is the bed?",
+    "label_answer": "white"
+  },
+  "495825001": {
+    "img": "vqaV2/Images/mscoco/val2014/COCO_val2014_000000495825.jpg",
+    "caption": "horses grazing in a field with mountains in the background",
+    "question": "Are the trees bigger than the mountains?",
+    "label_answer": "no"
+  },
+  "235252032": {
+    "img": "vqaV2/Images/mscoco/val2014/COCO_val2014_000000235252.jpg",
+    "caption": "three giraffes in the wild",
+    "question": "Are these animals over 4 feet tall?",
+    "label_answer": "yes"
+  },
+  "225916000": {
+    "img": "vqaV2/Images/mscoco/val2014/COCO_val2014_000000225916.jpg",
+    "caption": "a little girl playing with a water hose",
+    "question": "How many children are in the street?",
+    "label_answer": "2"
+  },
+  "273728015": {
+    "img": "vqaV2/Images/mscoco/val2014/COCO_val2014_000000273728.jpg",
+    "caption": "a man riding a horse in a crowd",
+    "question": "Is the man wearing a umbrella?",
+    "label_answer": "no"
+  },
+  "1948002": {
+    "img": "vqaV2/Images/mscoco/val2014/COCO_val2014_000000001948.jpg",
+    "caption": "a man holding a turkey",
+    "question": "What is this man holding?",
+    "label_answer": "turkey"
+  },
+  "484415000": {
+    "img": "vqaV2/Images/mscoco/val2014/COCO_val2014_000000484415.jpg",
+    "caption": "a person using a toilet",
+    "question": "Is that a male or female hand?",
+    "label_answer": "male"
+  },
+  "140439002": {
+    "img": "vqaV2/Images/mscoco/val2014/COCO_val2014_000000140439.jpg",
+    "caption": "flowers in a vase on a table",
+    "question": "Is there water in the vase?",
+    "label_answer": "yes"
+  },
+  "193112001": {
+    "img": "vqaV2/Images/mscoco/val2014/COCO_val2014_000000193112.jpg",
+    "caption": "a man on a skateboard doing a trick",
+    "question": "Is he wearing a hat?",
+    "label_answer": "yes"
+  },
+  "543681002": {
+    "img": "vqaV2/Images/mscoco/val2014/COCO_val2014_000000543681.jpg",
+    "caption": "a clock on the side of a building",
+    "question": "Is there a multi-story building in the picture?",
+    "label_answer": "yes"
+  },
+  "429718002": {
+    "img": "vqaV2/Images/mscoco/val2014/COCO_val2014_000000429718.jpg",
+    "caption": "a train on a train track",
+    "question": "What color is the train?",
+    "label_answer": "black"
+  },
+  "460757012": {
+    "img": "vqaV2/Images/mscoco/val2014/COCO_val2014_000000460757.jpg",
+    "caption": "a cat laying on a rug with a toy",
+    "question": "Who wants to play?",
+    "label_answer": "cat"
+  },
+  "223587002": {
+    "img": "vqaV2/Images/mscoco/val2014/COCO_val2014_000000223587.jpg",
+    "caption": "chicken with mushrooms and broccoli on a plate",
+    "question": "What is mainly featured?",
+    "label_answer": "chicken"
+  },
+  "239235007": {
+    "img": "vqaV2/Images/mscoco/val2014/COCO_val2014_000000239235.jpg",
+    "caption": "a group of people skiing down a snowy mountain",
+    "question": "What are these people doing?",
+    "label_answer": "skiing"
+  },
+  "405648008": {
+    "img": "vqaV2/Images/mscoco/val2014/COCO_val2014_000000405648.jpg",
+    "caption": "a woman walking with a suitcase",
+    "question": "What color is the door?",
+    "label_answer": "gray"
+  }
+}

@@ -12,6 +12,8 @@ build/
 develop-eggs/
 dist/
 downloads/
+venv/
+data/val2014/
 eggs/
 .eggs/
 lib/
